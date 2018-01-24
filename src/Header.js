@@ -25,7 +25,7 @@ class Header extends Component {
             <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul className="nav navbar-nav">
                 <li>
-                  <NavLink to="/home" exact>Home1</NavLink>
+                  <NavLink to="/home" exact>Home2</NavLink>
                 </li>
                 <li>
                   <NavLink to="/products" activeClassName="active">Products</NavLink>
